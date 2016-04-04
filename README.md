@@ -8,6 +8,10 @@
   npm install --save get-stock
 ```
 
+## Requirements
+
+**Nodejs** >= 0.12
+
 ## Usage
 
 ```js
