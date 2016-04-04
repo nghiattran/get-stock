@@ -1,7 +1,7 @@
 {
   "name": "get-stock",
-  "version": "0.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Nodejs module for getting stock from finance.yahoo.com api",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
