@@ -28,8 +28,8 @@ getStock(stocks).then(function (res) {
 
 Return object:
 
-*`count`: number of stocks
-*`results`: results of stocks
+* `count`: number of stocks
+* `results`: results of stocks
 
 ## Getting To Know Yeoman
 
