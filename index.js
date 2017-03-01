@@ -33,7 +33,7 @@ module.exports = function (symbols){
       q: cmd,
       format: 'json',
       diagnostics: 'false',
-      env: 'http://datatables.org/alltables.env',
+      env: 'store://datatables.org/alltableswithkeys',
       callback: ''
     }
     var queryString = querystring.stringify(query)
